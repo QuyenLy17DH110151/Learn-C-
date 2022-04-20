@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralsightCSharp", "PluralsightCSharp\PluralsightCSharp.csproj", "{EA242602-5BB9-4AA5-99F3-0F8C1978D8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA242602-5BB9-4AA5-99F3-0F8C1978D8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA242602-5BB9-4AA5-99F3-0F8C1978D8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA242602-5BB9-4AA5-99F3-0F8C1978D8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA242602-5BB9-4AA5-99F3-0F8C1978D8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A5E5D3E-4363-430B-8D44-07AF75C80BF5}
+	EndGlobalSection
+EndGlobal
